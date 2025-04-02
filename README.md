@@ -1,6 +1,7 @@
 # Magento 2 Translation Extension by [Magefan](https://magefan.com/magento2-extensions)
 
-[![Total Downloads](https://poser.pugx.org/magefan/module-translation/downloads)](https://packagist.org/packages/magefan/module-translation)
+[![Total Downloads](https://poser.pugx.org/magefan/module-translation/downloads)](https://packagist.org/packages/magefan/module-translation)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmodule-translation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmodule-translation?ref=badge_shield)
+
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-translation/v/stable)](https://packagist.org/packages/magefan/module-translation)
 
 
@@ -49,6 +50,9 @@ then if you still need help, open a bug report in GitHub's
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmodule-translation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmodule-translation?ref=badge_large)
 
 ## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) That Can Be Installed Via Composer
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
